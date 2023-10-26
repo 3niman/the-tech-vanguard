@@ -9,7 +9,20 @@
 <br />
 
 1. [Dima Kuchin compiled a list of essential resources every CTO should be intimately familiar with](https://www.linkedin.com/in/milanmilanovic/)<br />
-   <br />
+1. [Google Tech Blog](https://blog.google/technology/)
+1. [ycombinator](https://news.ycombinator.com/)
+1. [The Hacker News](https://thehackernews.com/)
+1. [Netflix Tech Blog](https://netflixtechblog.com/)
+1. [Spotify Tech Blog](https://engineering.atspotify.com/)
+1. [Uber Tech Blog](https://www.uber.com/en-DE/blog/engineering/)
+1. [Spotify Tech Blog](https://engineering.atspotify.com/)
+1. [Collection of CTO related Articles](https://ctovision.com/)
+1. [Amazon Tech Blog](https://www.amazon.science/blog)
+1. [Tech Crunch](https://techcrunch.com/)
+1. [Amazon Tech Blog](https://www.amazon.science/blog)
+1. [Azure Quantum](https://quantum.microsoft.com/?ef_id=_k_CjwKCAjwnOipBhBQEiwACyGLuoj3qjUf0jU17Rovt3xW9kO7zdCNAZu3nDaKH6030Yh14GenCIIK-xoC0YsQAvD_BwE_k_&OCID=AIDcmme9zx2qiz_SEM__k_CjwKCAjwnOipBhBQEiwACyGLuoj3qjUf0jU17Rovt3xW9kO7zdCNAZu3nDaKH6030Yh14GenCIIK-xoC0YsQAvD_BwE_k_&gclid=CjwKCAjwnOipBhBQEiwACyGLuoj3qjUf0jU17Rovt3xW9kO7zdCNAZu3nDaKH6030Yh14GenCIIK-xoC0YsQAvD_BwE)
+
+<br />
 
 🎩🔧 𝓒𝓣𝓞’𝓼 𝓪𝓷𝓭 𝓣𝓮𝓬𝓱 𝓥𝓟𝓼 𝓽𝓸 𝓕𝓸𝓵𝓵𝓸𝔀 🔧💼
 
