@@ -7,12 +7,11 @@ This isn't just a look back—it's a compass for the future. Consider it a tech 
 
 
 
-# FAQ:
+### FAQ:
 Does a CTO need how to code?
 
 
-# want to Procrastinate, what do i do? 
-[Click Me]: https://jurassicsystems.com/
+### [Want to Procrastinate? Click here](https://www.google.com)
 
 ### Written with Love... and ChatGPT :P 
 ### The Tech Vanguard
