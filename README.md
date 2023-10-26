@@ -11,5 +11,5 @@
 
 
 ### Written with Love... and ChatGPT :P 
-### the-tech-vanguard
+### The Tech Vanguard
 Tech Avanguard: Pioneering the future of technology. Exploring cutting-edge innovations and pushing the boundaries of what's possible. Join the forefront of tech evolution. ⚙️🚀 #LeadingTech
