@@ -8,9 +8,9 @@
 
 ## FAQ:
 
-* Does a CTO need how to code?
+Does a CTO need how to code?
 
-* [Want to Procrastinate? Click here](https://www.google.com)
+[Want to Procrastinate? Click here](https://www.google.com)
 
 .<br />
 .<br />
