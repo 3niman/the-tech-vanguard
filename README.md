@@ -11,8 +11,11 @@ Does a CTO need how to code?
 
 
 #### [Want to Procrastinate? Click here](https://www.google.com)
-
+.
+.
+.
+.
+.
+.
+.
 Written with Love... and ChatGPT :P 
-
-#### The Tech Vanguard
-Tech Avanguard: Pioneering the future of technology. Exploring cutting-edge innovations and pushing the boundaries of what's possible. Join the forefront of tech evolution. ⚙️🚀 #LeadingTech
